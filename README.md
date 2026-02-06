@@ -8,7 +8,7 @@ Repositório original:
 https://github.com/EduardoGarzon/NEANDER
 
 
-## 📚 Contexto Acadêmico
+##  Contexto Acadêmico
 
 Disciplina: Sistemas Digitais  
 Professor: Edmar Bellorini  
@@ -17,7 +17,7 @@ Curso: Ciência da Computação
 O projeto consistiu na implementação completa do computador teórico NEANDER, incluindo seus módulos principais e componentes auxiliares.
 
 
-## 🧠 Sobre o NEANDER
+##  Sobre o NEANDER
 
 O NEANDER é um computador didático utilizado para ensino de arquitetura e organização de computadores.  
 
@@ -34,7 +34,7 @@ Neste projeto foram implementados:
 Todos os módulos foram desenvolvidos em VHDL conforme o modelo apresentado em aula.
 
 
-## 🛠 Estrutura do Projeto
+##  Estrutura do Projeto
 
 O sistema foi dividido nos seguintes módulos:
 
@@ -73,7 +73,7 @@ O sistema foi dividido nos seguintes módulos:
 
 
 
-## ⚙️ Decisões de Projeto
+##  Decisões de Projeto
 
 Algumas decisões importantes adotadas no desenvolvimento:
 
@@ -84,7 +84,7 @@ Algumas decisões importantes adotadas no desenvolvimento:
 
 
 
-## 🧪 Testes
+##  Testes
 
 O projeto inclui arquivos de simulação:
 
@@ -94,7 +94,7 @@ O projeto inclui arquivos de simulação:
 Foi utilizado o exercício “Maior Número” como teste funcional para validação do funcionamento do computador.
 
 
-## 👨‍💻 Participação
+##  Participação
 
 Projeto desenvolvido em grupo durante a graduação. Contribuí no desenvolvimento e integração dos módulos do sistema, bem como na implementação e testes das funcionalidades do computador teórico.
 
