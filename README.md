@@ -1,6 +1,6 @@
 # NEANDER – Computador Teórico em VHDL
 
-Este repositório é um fork do projeto original desenvolvido em grupo para a disciplina de Sistemas Digitais.
+Este repositório é um fork do projeto original do qual participei, desenvolvido para a disciplina de Sistemas Digitais.
 
 Projeto acadêmico: Implementação completa do computador teórico NEANDER utilizando VHDL.
 
